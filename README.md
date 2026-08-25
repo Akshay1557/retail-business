@@ -243,8 +243,9 @@ The dashboard converts the analytical results into an easy-to-understand busines
 
 ## 📊 Power BI Dashboard
 
-![Retail Business Analytics Dashboard](retail-dashboard.png)
-
+<p align="center">
+  <img src="image/retail-dashboard.png" alt="Retail Business Analytics Dashboard" width="100%">
+</p>
 
 ---
 
