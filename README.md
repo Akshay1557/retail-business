@@ -10,8 +10,6 @@ The project follows a complete analytics workflow — from data understanding an
 
 Retail businesses generate large volumes of transactional data containing information about customers, products, sales, discounts, shipping, and profitability.
 
-However, raw transaction data alone does not provide clear answers to important business questions.
-
 This project analyzes retail data to identify:
 
 * Sales and revenue performance
