@@ -243,7 +243,6 @@ The dashboard converts the analytical results into an easy-to-understand busines
 
 ### Dashboard Preview
 
-Screenshots of the dashboard are available in the `images/` directory.
 
 ---
 
