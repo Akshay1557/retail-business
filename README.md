@@ -1,4 +1,4 @@
-# 📊 Retail Intelligence Business Analytics
+# 📊 Retail Business
 
 <p align="center">
 
@@ -125,7 +125,7 @@ To improve analytical capabilities, several business-focused features were engin
 The repository follows a modular structure, separating each stage of the analytics workflow into independent components for better organization and reproducibility.
 
 ```text
-Retail-Intelligence-Business-Analytics/
+Retail-Business/
 │
 ├── data/
 │   ├── raw/
@@ -146,15 +146,10 @@ Retail-Intelligence-Business-Analytics/
 ├── dashboard/
 │   └── Retail_Intelligence_Dashboard.pbix
 │
-├── reports/
-│   ├── Retail_Intelligence_Business_Analytics_Report.pdf
-│   └── Retail_Intelligence_Business_Analytics_Presentation.pptx
-│
 ├── images/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
