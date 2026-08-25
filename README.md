@@ -241,7 +241,9 @@ The dashboard converts the analytical results into an easy-to-understand busines
 * 🎯 Interactive filters
 * 🔎 Drill-down analysis
 
-### Dashboard Preview
+## 📊 Power BI Dashboard
+
+![Retail Business Analytics Dashboard](retail-dashboard.png)
 
 
 ---
